@@ -28,7 +28,7 @@ run
 
 * npm
   ```sh
- npm i && npm start
+ npm i
   ```
 for both client and server side to start the app
 ### Installation
