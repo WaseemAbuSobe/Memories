@@ -7,7 +7,7 @@
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
+* [![React][React.js]][https://reactjs.org/]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
